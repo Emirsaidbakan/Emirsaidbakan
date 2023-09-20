@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Emir Said Bakan. I am an undergraduate CS student at Bilkent University.
 
 <!--
 **Emirsaidbakan/Emirsaidbakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
